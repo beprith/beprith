@@ -1,74 +1,34 @@
-<!-- ===========================================================
-   ⌬  BEPRITH  ⌬
-   Robotics × Agentic AI × Urban Operating Systems
-=========================================================== -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=4000&pause=1000&color=0EDFFF&center=true&vCenter=true&width=900&height=120&lines=⌬+BEPRITH+⌬;Robotics+%E2%87%92+Agentic+AI+Architect;Building+Urban+Operating+Systems" alt="Typing Animation">
-</h1>
-
-<div align="center">
-  <img src="https://svgshare.com/i/ubp.svg" alt="neon-divider" width="100%">
-</div>
-
+<!-- BEPRITH • Less Words / More Visuals -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-GO%20%7C%20Python%20%7C%20TypeScript-0EDFFF?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stack-GCP%20PubSub%20%7C%20LangFlow%20%7C%20Streamlit%20%7C%20Terraform-ff77ff?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=beprith&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=0EDFFF&center=true&vCenter=true&width=1000&height=80&lines=BEPRITH;Agentic+AI+Architect;Urban+OS+Builder" alt="banner">
 </p>
 
----
-
-### 🚀 Mission Log
-```txt
-• Fuse robotics, city telemetry & LLM cognition into real‑time decision loops
-• Democratise AI via open protocols (MCP) & crystal‑clear docs
-• Ship every repo as a miniature product—ADR‑first, CI‑and‑Terraform‑ready
-```
-
----
-
-### 🌌 Flagship Projects
-
-| 🚦 Urban OS | 💸 FinTech | 🛠️ OT Support | 📑 Career OS |
-|-------------|-----------|---------------|--------------|
-| **Namma‑Omni AI**<br/>City‑scale poly‑agent platform streaming traffic, energy & civic issues to a Next‑15 dashboard. | **Money‑Mate**<br/>Local MCP mock server exposing net‑worth, credit‑score & bank tools—sandbox fintech ideas safely. | **OT‑Service‑Assistant**<br/>Streamlit chatbot + Langflow RAG over SOP docs for engineers fixing shop‑floor hiccups. | **ATS‑Resume Forge**<br/>Multi‑agent flow turning any LinkedIn JD + your resume into a 95 %‑score, download‑ready PDF. |
-
-> Explore pinned repos or `/docs/adr` in each project for architecture decisions.
-
----
-
-### 📈 AI Footprint (Stats that matter)
-
-| Metric | Figure |
-|--------|--------|
-| **LLM models orchestrated** | 7 (Gemini Pro, GPT‑4o, Phi‑2, Mistral 7B, Gemma 2B, LLaMA.cpp, Ollama) |
-| **Active autonomous agents** | 35 + across three poly‑agent platforms |
-| **RAG pipelines in prod** | 4 (Finance, OT, CityOS, CareerOS) |
-| **Daily telemetry ingested** | ~1.2 M urban events |
-| **Python AI LOC** | 15 K + lines & counting |
-
----
-
-### 🛠️ Toolbelt
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,typescript,docker,gcp,terraform,streamlit,react" height="95"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EDFFF&height=100&section=header&width=1200" alt="divider">
 </p>
 
----
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Agents-35+-0EDFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-7-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-4-blueviolet?style=for-the-badge"/>
+</p>
 
-### 🛰️ Incoming Signals
-- **Gemini 2.5‑Pro** multimodal fusion for city alerts  
-- **Rust‑powered edge swarm** to shrink latency for warehouse robotics  
-- **Zero‑touch MCP deployer**—one `terraform apply` → instant LLM cluster  
+<!-- Graphs -->
+<p align="center">
+  <img src="https://quickchart.io/chart?bkg=transparent&c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22LLMs%22%2C%20%22Agents%22%2C%20%22RAG%22%2C%20%22Events%5Cu00a0%28M%29%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22AI%20Footprint%22%2C%20%22data%22%3A%20%5B7%2C%2035%2C%204%2C%201.2%5D%2C%20%22backgroundColor%22%3A%20%22rgba%2814%2C223%2C255%2C0.3%29%22%2C%20%22borderColor%22%3A%20%22%230EDFFF%22%2C%20%22borderWidth%22%3A%202%7D%5D%7D%2C%20%22options%22%3A%20%7B%22scale%22%3A%20%7B%22ticks%22%3A%20%7B%22display%22%3A%20false%2C%20%22max%22%3A%2040%7D%2C%20%22pointLabels%22%3A%20%7B%22font%22%3A%20%7B%22size%22%3A%2014%7D%7D%7D%2C%20%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%7D%7D%7D" alt="AI Radar" width="400"/>
+  &nbsp;&nbsp;
+  <img src="https://quickchart.io/chart?bkg=transparent&c=%7B%22type%22%3A%20%22doughnut%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Python%22%2C%20%22TypeScript%22%2C%20%22Go%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B50%2C%2035%2C%2015%5D%2C%20%22backgroundColor%22%3A%20%5B%22%23377ef0%22%2C%20%22%23f0b237%22%2C%20%22%2300acd7%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%7D%7D%7D" alt="Language Mix" width="220"/>
+</p>
 
-Stay tuned—warp‑speed commits ahead! 🧑‍🚀
+<!-- Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,go,docker,gcp,terraform,streamlit,react" height="90"/>
+</p>
 
----
-
-### 📡 Contact & Inter‑links
-[Portfolio](https://pavan-kumar-l.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/pavan-kumar-l-56b632155/) • Twitter @beprith • Email `pavan991@outlook.com`
-
-<div align="center">
-  <sup>Made with 💙, YAML & just‑enough caffeine.</sup>
-</div>
+<!-- Minimal Links -->
+<p align="center">
+  <a href="https://pavan-kumar-l.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/pavan-kumar-l-56b632155/">LinkedIn</a> •
+  <a href="mailto:hi@pavan.codes">Email</a>
+</p>

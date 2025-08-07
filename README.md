@@ -30,5 +30,5 @@
 <p align="center">
   <a href="https://pavan-kumar-l.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/pavan-kumar-l-56b632155/">LinkedIn</a> •
-  <a href="mailto:hi@pavan.codes">Email</a>
+  <a href="pavan991@outlook.com">Email</a>
 </p>

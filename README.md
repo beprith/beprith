@@ -8,7 +8,7 @@
 - 🧠 Building **Agentic AI Systems** & advanced RAG pipelines  
 - ⚙️ Creator of automation frameworks & developer tools  
 - 🚀 Passionate about AI Infra, LangChain, Langflow, Vector DBs  
-- 🔭 Currently building: **AI Security Agents**  
+- 🔭 Currently building: **ASTRA**  
 - 💬 Ask me about: LLM orchestration • RAG • Agents • Langflow  
 - 📫 Contact: **pavan991@outlook.com**
 

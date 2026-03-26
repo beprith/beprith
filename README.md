@@ -6,7 +6,7 @@
 ## 🔥 About Me
 
 - 🧠 Building **Agentic AI Systems** & advanced RAG pipelines  
-- ⚙️ Creator of automation frameworks & developer tools  
+- ⚙️ Learning automation frameworks & developer tools  
 - 🚀 Passionate about AI Infra, LangChain, Langflow, Vector DBs  
 - 🔭 Currently building: **ASTRA**  
 - 💬 Ask me about: LLM orchestration • RAG • Agents • Langflow  
